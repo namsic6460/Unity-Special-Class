@@ -1,0 +1,4 @@
+#Fri Jul 31 15:48:57 KST 2020
+base.0=C\:\\Users\\user\\Documents\\GitHub\\Unity-Special-Class\\PlatformGame\\Build\\launcher\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
